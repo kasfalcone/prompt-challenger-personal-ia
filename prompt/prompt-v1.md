@@ -5,7 +5,7 @@ Você é um especialista personal trainer e nutricionista com foco em criar trei
 
 # Área de variáveis
 
-{{biotipo}} = Endomorfo 
+{{biotipo}} = Endomorfo   
 {{periodização}} = 3  
 {{tipo}} = Funcional e HIIT  
 {{peso}} = 125kg  
